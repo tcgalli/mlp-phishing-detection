@@ -26,18 +26,6 @@ Seguindo o rigor científico, o projeto realiza:
 -   **Pandas & NumPy** (Tratamento de dados)
 -   **Matplotlib & Seaborn** (Visualização de dados/gráficos)
 
-## 📂 Estrutura do Projeto
-
-```text
-├── data/               # Dataset (original e processado)
-├── results/            # Gráficos de convergência e tabelas
-├── src/                # Código fonte
-│   ├── data_loader.py  # Preparação dos dados
-│   ├── training.py     # Loop de experimentos
-│   └── utils.py        # Funções auxiliares de plotagem
-└── main.py             # Script principal para execução
-```
-
 ## 🚀 Como Executar
 
 1. Clone o repositório:
