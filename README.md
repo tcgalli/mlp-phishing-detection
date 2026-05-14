@@ -17,7 +17,7 @@ O objetivo é treinar uma rede neural capaz de classificar se uma URL/site é **
 
 ## 🔬 Metodologia Experimental
 
-### Parâmetros variados (3 de 5 exigidos)
+### Parâmetros variados
 
 | Parâmetro | Valores testados |
 |---|---|
